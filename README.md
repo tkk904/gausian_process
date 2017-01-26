@@ -2,4 +2,5 @@
 study gausian process
 
 make
+
 ./gausian_process.exe
